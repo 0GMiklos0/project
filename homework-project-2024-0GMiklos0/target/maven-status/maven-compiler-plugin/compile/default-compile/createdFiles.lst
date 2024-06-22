@@ -1,0 +1,13 @@
+sokobanPuzzle\model\Direction.class
+sokobanPuzzle\model\package-info.class
+sokobanPuzzle\model\JsonHandler.class
+sokobanPuzzle\package-info.class
+sokobanPuzzle\model\Map.class
+sokobanPuzzle\model\SokobanState.class
+sokobanPuzzle\Main.class
+sokobanPuzzle\MenuController.class
+sokobanPuzzle\model\Position.class
+sokobanPuzzle\SokobanController$1.class
+sokobanPuzzle\model\Square.class
+sokobanPuzzle\SokobanController.class
+sokobanPuzzle\SokobanApplication.class
